@@ -96,6 +96,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: moahmedkhaled12/bankapp:latest
+          tags: mohamedkhaled12/bankapp:latest
           build-args: |
             JAR_FILE=app/*.jar
